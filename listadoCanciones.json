@@ -4,55 +4,16 @@
             "id": "1",
             "titulo": "dreams",
             "url": "https://raw.githubusercontent.com/n4ii554/listadoCanciones/refs/heads/main/LostInDreams.mp3",
-            "": ""
         },
         {
             "id": "2",
             "titulo": "fresh",
             "url": "https://raw.githubusercontent.com/n4ii554/listadoCanciones/refs/heads/main/soFresh.mp3",
-            "": ""
         },
         {
             "id": "3",
             "titulo": "deep",
             "url": "https://raw.githubusercontent.com/n4ii554/listadoCanciones/refs/heads/main/deepElectronic.mp3",
-            "": ""
         },
-        {
-            "id": "",
-            "titulo": "",
-            "url": "",
-            "": ""
-        },
-        {
-            "id": "",
-            "titulo": "",
-            "url": "",
-            "": ""
-        },
-        {
-            "id": "",
-            "titulo": "",
-            "url": "",
-            "": ""
-        },
-        {
-            "id": "",
-            "titulo": "",
-            "url": "",
-            "": ""
-        },
-        {
-            "id": "",
-            "titulo": "",
-            "url": "",
-            "": ""
-        },
-        {
-            "id": "",
-            "titulo": "",
-            "url": "",
-            "": ""
-        }
     ]
 }
